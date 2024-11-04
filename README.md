@@ -1,6 +1,8 @@
 # SDE_SHEET_SOLUTIONS
 HEY THERE!
-As an passionate computer science student am preparing my sde sheet for displaying my approaches and learnings and providing guidance to interested juniors who want to learn CP algorithms and DSA....
+As a passionate computer science student am preparing my sde sheet for displaying my approaches and learnings and providing guidance to interested juniors who want to learn CP algorithms and DSA...
+
+Here you will get topic wise distribution of problems and all recent contest problems and their approaches and solutions in C++... Happy Coding!!!
 
 My coding handles for reference:-
 
